@@ -1,7 +1,7 @@
 try:
     from calendar import prcal
 except:
-    print 'Let\'s start out with a select message for those on a incompatible platform getting integer overflows.'
+    print 'Let\'s start out with a select message for those on an incompatible platform getting integer overflows.'
 
 def main(years):
     try:
